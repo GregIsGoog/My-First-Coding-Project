@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dihux76gmi6my"
+path="res://.godot/imported/uwu.mp3-aacefc7f8e7d019b214e1df78c0502f1.mp3str"
+
+[deps]
+
+source_file="res://Audio/Player Sounds/uwu.mp3"
+dest_files=["res://.godot/imported/uwu.mp3-aacefc7f8e7d019b214e1df78c0502f1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

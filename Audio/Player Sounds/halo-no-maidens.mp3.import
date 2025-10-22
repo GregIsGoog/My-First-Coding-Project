@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bx3mvmdqlbu53"
+path="res://.godot/imported/halo-no-maidens.mp3-fb12fede6c4b8d87b795d14e4583021b.mp3str"
+
+[deps]
+
+source_file="res://Audio/Player Sounds/halo-no-maidens.mp3"
+dest_files=["res://.godot/imported/halo-no-maidens.mp3-fb12fede6c4b8d87b795d14e4583021b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
