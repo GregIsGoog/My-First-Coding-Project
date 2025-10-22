@@ -1,1 +1,1 @@
-Download for macOS https://gregisgoog.itch.io/game-download 
+Download for macOS https://gregisgoog.itch.io/macos-download 
